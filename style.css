@@ -97,7 +97,8 @@ body{
             display: flex;
             color: var(--Light-grayish-cyan);
             justify-content: space-between;
-            p{
+            span{
+                display: block;
                 font-size:small;
                 color: var(--Dark-grayish-cyan);
             }
